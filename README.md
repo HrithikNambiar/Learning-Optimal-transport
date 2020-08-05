@@ -24,5 +24,5 @@ I have solved the the problems above using Python Optimal Transport (POT):
    
 3. I have converted the images to array of pixels using the PIL library. We can input these array into the ot.dist and ot.emd to get the OT matrix and loss.
 
-To learn the functioning of PytorchOT , i used the the ot_pytorch.py for the PythorchOT repo (forked in my github).
+To learn the functioning of PytorchOT , i used the the ot_pytorch.py from the PytorchOT repo (forked in my github).
    
